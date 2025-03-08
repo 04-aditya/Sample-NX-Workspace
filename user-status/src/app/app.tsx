@@ -1,4 +1,4 @@
-import ScrollableCanvas from '../canvas/ScrollableCanvas';
+import ScrollableCanvas from '../canvas/CanvasComponent';
 
 export function App() {
   return (
