@@ -1,11 +1,10 @@
-// Uncomment this line to use CSS modules
-// import styles from './app.module.css';
-import NxWelcome from './nx-welcome';
+import ScrollableCanvas from '../canvas/ScrollableCanvas';
+import styles from './app.module.css';
 
 export function App() {
   return (
-    <div>
-      <NxWelcome title="user-status" />
+    <div style={{ height: '10000px' }}>
+      <ScrollableCanvas />
     </div>
   );
 }
