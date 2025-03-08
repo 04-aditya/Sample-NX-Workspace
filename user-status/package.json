@@ -1,0 +1,8 @@
+{
+  "name": "@workspace-1/user-status",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "user-status"
+  }
+}
